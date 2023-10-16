@@ -33,6 +33,16 @@ If you want to find out how the game looks like at the end of each step, check o
 
 ### Version
 0.0.5
+###Implement
+This is my assignment and it is implement with AI player And Humen Player.
+
+# <img src="src/main/resources/asset/startPage.png" alt="drawing" width="150"/> This is start UI
+
+# <img src="src/main/resources/asset/BeforePlaying.png" alt="drawing" width="150"/> This is before start UI
+
+# <img src="src/main/resources/asset/fistSet.png" alt="drawing" width="150"/> This is fist row fill UI
+
+# <img src="src/main/resources/asset/aiPlayerWon.png" alt="drawing" width="150"/> This is ai Player won UI
 
 ### License
 Copyright © 2022 DEP. All rights reserved <br>
